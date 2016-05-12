@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OverCrowd (VS2008)", "OverCrowd (VS2008).vcproj", "{B80C71B5-820A-4C3B-BAA1-3DD91DD19222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B80C71B5-820A-4C3B-BAA1-3DD91DD19222}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B80C71B5-820A-4C3B-BAA1-3DD91DD19222}.Debug|Win32.Build.0 = Debug|Win32
+		{B80C71B5-820A-4C3B-BAA1-3DD91DD19222}.Release|Win32.ActiveCfg = Release|Win32
+		{B80C71B5-820A-4C3B-BAA1-3DD91DD19222}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
